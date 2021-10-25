@@ -1,0 +1,95 @@
+{
+  "todo": [
+    {
+      "id": "1634665944846",
+      "title": "Add item!",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1634665956452",
+      "title": "we can add more items!",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1635175204649",
+      "title": "",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1635175244642",
+      "title": "New todo!",
+      "complete": false,
+      "editing": false,
+      "display": true
+    },
+    {
+      "id": "1635175861631",
+      "title": "",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1635182327239",
+      "title": "",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1635182327929",
+      "title": "",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1635182329152",
+      "title": "",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1635182329683",
+      "title": "",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1635182330237",
+      "title": "",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1635182424415",
+      "title": "",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1635182426222",
+      "title": "",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1635184212958",
+      "title": "add a new item",
+      "complete": false,
+      "editing": false,
+      "display": true
+    }
+  ]
+}
